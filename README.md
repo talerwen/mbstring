@@ -1,1 +1,1 @@
-# mbstring
+# mbstring 处理类
