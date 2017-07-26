@@ -8,7 +8,7 @@
             "email": "602943077@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "require": {},
     "autoload": {
         "psr-4": {
